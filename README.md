@@ -26,7 +26,7 @@ python -m http.server 8000
 
 - **Polski tekst** — bezpośrednio w `index.html`.
 - **Angielski tekst** — w obiekcie `EN` w `script.js` (klucze odpowiadają atrybutom `data-i18n` w HTML).
-- Miejsca do uzupełnienia są oznaczone w HTML komentarzem `TODO` (e-mail, linki do LinkedIn).
+- Miejsca do uzupełnienia są oznaczone w HTML komentarzem `TODO` (linki do LinkedIn; e-mail do zmiany na adres we własnej domenie).
 
 ## Hosting
 
